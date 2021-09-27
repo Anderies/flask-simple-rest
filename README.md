@@ -7,4 +7,4 @@ Model Used : https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-engl
 My Medium Tutorial Link :<br/>
 
 ### <b>Output Example: </b> <br/><br/>
-![Image of Project]()
+![Image of Project](https://raw.githubusercontent.com/Anderies/flask-simple-rest/master/tutorial%20flask.gif)
